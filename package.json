@@ -5,7 +5,8 @@
   "private": true,
   "workspaces":{
     "packages": [
-      "packages/*"
+      "packages/*",
+      "packages/shared/*"
     ]
   },
   "author": "JonatasAlves9 <alvesjonatas99@gmail.com>",
